@@ -1,0 +1,17 @@
+{"statusCode":0,
+  "message":"response ok",
+  "data": {
+    "user": {
+       "id":1,
+       "name":"name",
+       "username":"username" ,
+       "email":"email" ,
+       "emailVerifiedAt":"emailVerifiedAt" ,
+       "phone":"phone" ,
+       "phoneVerifiedAt":"phoneVerifiedAt" ,
+       "roleId":"roleId" ,
+       "status":"status" ,
+       "language":"language"
+     }
+  }
+}
